@@ -1,0 +1,14 @@
+<svg version="1.1" width="68" height="68" viewBox="-0.5 -0.5 68 68" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="grad_1" cx="0.4925" cy="0.5373" r="0.6984899999999999">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#001966" stop-opacity="1"/>
+    </radialGradient>
+  <radialGradient id="grad_1-,0,0,1,-406,-289" cx="32.9975" cy="35.9991" r="46.7988" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#001966" stop-opacity="1"/>
+    </radialGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9482275093905628" fill="url(#grad_1-,0,0,1,-406,-289)" stroke="none" d="M 33.5 0 C 42.742 0 51.117 3.754 57.182 9.818 C 63.246 15.883 67 24.258 67 33.5 C 67 42.742 63.246 51.117 57.182 57.182 C 51.117 63.246 42.742 67 33.5 67 C 24.258 67 15.883 63.246 9.818 57.182 C 3.754 51.117 0 42.742 0 33.5 C 0 24.258 3.754 15.883 9.818 9.818 C 15.883 3.754 24.258 0 33.5 0 Z " stroke-width="1"/>
+  <text id="ID0.6195605020038784" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.711417, 0, 0, 0.711417, 7.42283, 21.9157)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">LEAVE</tspan></text>
+</svg>
